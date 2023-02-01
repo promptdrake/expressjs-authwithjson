@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "file_id": "somefileid",
+            "password": "somefilepw",
+            "link": "https://aisbircubes.my.id"
+        },
+        {
+            "file_id": "somefileid_1",
+            "password": "somefileid_2",
+            "link": "https://google.com"
+        }
+    ]
+}
